@@ -1,3 +1,5 @@
+## This is a fork that makes a change to the GitHub Actions to be able to release on darwin/arm64 (Apple Silicon).  This will be deprecated when the project is updated to support Apple Silicon.
+
 # gh actions-status
 
 _being an extension to view the overall health of an organization's use of actions_
