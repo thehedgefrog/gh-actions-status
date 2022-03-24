@@ -8,6 +8,7 @@ on:
 
 env:
   RELEASE: ${{ github.event.inputs.release }}
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 permissions:
   contents: write
